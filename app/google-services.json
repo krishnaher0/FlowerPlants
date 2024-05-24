@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481194970805",
+    "project_id": "flowerplant-537c1",
+    "storage_bucket": "flowerplant-537c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481194970805:android:90c9e1652b46b6591278fc",
+        "android_client_info": {
+          "package_name": "com.example.flowerplant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ztijH04QL9z-n2ZGfNzvJnKfIjROiP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
